@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+#container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.common-form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+}
+.form-Input{
+
+}
+.form-btn{
+
+}
